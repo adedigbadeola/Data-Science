@@ -1,6 +1,6 @@
 <h1>Data-Science<h1/>
 
-title      : NumPy,Pandas and Matplotlib Packages
+<h2>NumPy,Pandas and Matplotlib Packages<h2/>
 <br/>
 <h4>description : Data science deals with the manipulation of data
 <br/>
