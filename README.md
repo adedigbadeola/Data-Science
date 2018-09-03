@@ -1,13 +1,13 @@
 <h1>Data-Science<h1/>
 <h2>NumPy,Pandas and Matplotlib Packages<h2/>
 <br/>
-<h4>description : Data science deals with the manipulation of data
+<h4>Description : Data science deals with the manipulation of data
 <br/>
 NumPy is a Python package to efficiently do data science. Learn to work with the NumPy array, a faster and more powerful alternative to the list, and take your first steps in data exploration.
 <br/>
 pandas is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language.
 <br/>
-Matplotlib is a Python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms. Matplotlib can be used in Python scripts, the Python and IPython shells, the Jupyter notebook, web application servers, and four graphical user interface toolkits.<?h4/>
+Matplotlib is a Python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms. Matplotlib can be used in Python scripts, the Python and IPython shells, the Jupyter notebook, web application servers, and four graphical user interface toolkits.<h4/>
 
 <h2>Variable Assignment<h2/>
 <h3>Create a variable savings<h3/>
@@ -24,7 +24,7 @@ Matplotlib is a Python 2D plotting library which produces publication quality fi
 <h3>Change "living room" to "chill zone"<h3/>
 <h6>areas[4] = "chill zone"<h6/>
 
-<h2>Import package<h2/>
+<h2>Import math package<h2/>
   
 <h3>Definition of radius<h3/>
 <h6>r = 0.43<h6/>
@@ -51,6 +51,7 @@ Matplotlib is a Python 2D plotting library which produces publication quality fi
 <h3>Print out the median of np_height<h3/>
 <h6>print(np.median(np_height))<h6/>
 
+<h2>The matplotlib package<h2/>
 <h3>Basic scatter plot, log scale<h3/>
 <h6>plt.scatter(gdp_cap, life_exp)<h6/>
 <h6>plt.xscale('log')<h6/> 
@@ -70,6 +71,7 @@ Matplotlib is a Python 2D plotting library which produces publication quality fi
 <h3>After customizing, display the plot<h3/>
 <h6>plt.show()<h6/>
 
+<Import pandas<h2/>
 <h3>To import CSV files, you still need the pandas package: import it as pd<h3/>
 <h6>import pandas as pd<h6/>
 
