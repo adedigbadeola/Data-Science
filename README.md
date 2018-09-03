@@ -1,5 +1,4 @@
 <h1>Data-Science<h1/>
-
 <h2>NumPy,Pandas and Matplotlib Packages<h2/>
 <br/>
 <h4>description : Data science deals with the manipulation of data
@@ -12,24 +11,21 @@ Matplotlib is a Python 2D plotting library which produces publication quality fi
 
 <h2>Variable Assignment<h2/>
 <h3>Create a variable savings<h3/>
-
 <h6>savings = 100<h6/>
-
 <h3>Print out savings<h3/>
-  
 <h6>print(savings)<h6/>
 
-#Replace list elements
 <h3>Create the areas list<h3/>
 <h6>areas = ["hallway", 11.25, "kitchen", 18.0, "living room", 20.0, "bedroom", 10.75, "bathroom", 9.50]<h6/>
 
 <h3>Correct the bathroom area<h3/>
-areas[-1] = 10.50
+<h6>areas[-1] = 10.50<h6/>
 
 <h3>Change "living room" to "chill zone"<h3/>
-areas[4] = "chill zone"
+<h6>areas[4] = "chill zone"<h6/>
 
 <h2>Import package<h2/>
+  
 <h3>Definition of radius<h3/>
 <h6>r = 0.43<h6/>
 
