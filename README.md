@@ -2,13 +2,13 @@
 
 title      : NumPy,Pandas and Matplotlib Packages
 <br/>
-description : Data science deals with the manipulation of data
+<h4>description : Data science deals with the manipulation of data
 <br/>
 NumPy is a Python package to efficiently do data science. Learn to work with the NumPy array, a faster and more powerful alternative to the list, and take your first steps in data exploration.
 <br/>
 pandas is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language.
 <br/>
-Matplotlib is a Python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms. Matplotlib can be used in Python scripts, the Python and IPython shells, the Jupyter notebook, web application servers, and four graphical user interface toolkits.
+Matplotlib is a Python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms. Matplotlib can be used in Python scripts, the Python and IPython shells, the Jupyter notebook, web application servers, and four graphical user interface toolkits.<?h4/>
 
 <h2>Variable Assignment<h2/>
 <h3>Create a variable savings<h3/>
