@@ -29,3 +29,16 @@ C = 2 * math.pi * r
 
 # Calculate the area of the circle and store it in A.
 A = math.pi * r**2
+
+# Import numpy
+import numpy as np
+
+# Create Numpy array np_height, that is equal to first column of np_baseball.
+np_height = np_baseball[:,0]
+print(np_height)
+
+# Print out the mean of np_height
+print(np.mean(np_height))
+
+# Print out the median of np_height
+print(np.median(np_height))
