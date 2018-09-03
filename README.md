@@ -42,3 +42,24 @@ print(np.mean(np_height))
 
 # Print out the median of np_height
 print(np.median(np_height))
+
+# Basic scatter plot, log scale
+plt.scatter(gdp_cap, life_exp)
+plt.xscale('log') 
+
+# The strings xlab and ylab variables. 
+xlab = 'GDP per Capita [in USD]'
+ylab = 'Life Expectancy [in years]'
+title = 'World Development in 2007'
+
+# Use these variables to set the label of the x- and y-axis.
+plt.xlabel(xlab)
+plt.ylabel(ylab)
+#plt.title(title)
+
+
+# Add title
+plt.title(title)
+
+# After customizing, display the plot
+plt.show()
