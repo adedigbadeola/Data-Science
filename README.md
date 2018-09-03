@@ -63,3 +63,13 @@ plt.title(title)
 
 # After customizing, display the plot
 plt.show()
+
+# To import CSV files, you still need the pandas package: import it as pd
+import pandas as pd
+
+# Use pd.read_csv() to import cars.csv data as a DataFrame. 
+#Store this dataframe as cars
+cars = pd.read_csv("cars.csv")
+
+# Print out cars
+print(cars)
