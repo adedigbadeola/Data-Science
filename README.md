@@ -38,7 +38,8 @@ Matplotlib is a Python 2D plotting library which produces publication quality fi
 <h3>Calculate the area of the circle and store it in A.<h3/>
 <h6>A = math.pi * r**2<h6/>
 
-<h2>Import numpy<h2/>
+<h2>The Numpy Package<h2/>
+<h3>To convert a list to an array, you need the numpy package<h3/>
 <h6>import numpy as np<h6/>
 
 <h3>Create Numpy array np_height, that is equal to first column of np_baseball.<h3/>
@@ -71,8 +72,8 @@ Matplotlib is a Python 2D plotting library which produces publication quality fi
 <h3>After customizing, display the plot<h3/>
 <h6>plt.show()<h6/>
 
-<Import pandas<h2/>
-<h3>To import CSV files, you still need the pandas package: import it as pd<h3/>
+<h2>The Pandas Package<h2/>
+<h3>To import CSV files, you need the pandas package<h3/>
 <h6>import pandas as pd<h6/>
 
 <h3>Use pd.read_csv() to import cars.csv data as a DataFrame.<h3/> 
