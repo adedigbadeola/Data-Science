@@ -1,3 +1,8 @@
+title_meta  : DATA SCIENCE
+title       : NumPy,Pandas and Matplotlib Packages
+description : NumPy is a Python package to efficiently do data science. Learn to work with the NumPy array, a faster and more powerful alternative to the list, and take your first steps in data exploration. pandas is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language.
+
+
 # Data-Science
 
 #Variable Assignment
